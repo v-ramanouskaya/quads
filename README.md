@@ -1,1 +1,1 @@
-# quads
+# Game of Quads
